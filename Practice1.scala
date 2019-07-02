@@ -3,7 +3,7 @@ package AlgorithimPractice
 object Practice1 {
 
   def main(args: Array[String]):Unit = {
-    println("Shiv 2314545")
+    println("Shiv 666666")
 
     println(Fibonacci(10))
 
